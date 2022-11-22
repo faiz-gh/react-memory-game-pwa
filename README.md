@@ -4,4 +4,6 @@ This is a Memory game based on React JS. It is configured to be used as a PWA. T
 
 The Project is completed and has been hosted on https://memory-game-34e16.web.app/ 
 
+You can download it as a PWA too!
+
 Feel free to checkout
