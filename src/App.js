@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import shuffle from './utilities/shuffle';
+import Card from './components/Card';
 
 function App() {
   const [cards, setCards] = useState(shuffle);
