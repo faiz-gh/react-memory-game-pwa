@@ -1,7 +1,7 @@
 const Card = ({ image, selected, onClick }) => {
     return (
         <div className="card">
-            <div className={slected && "selected"}>
+            <div className={selected && "selected"}>
                 <img 
                     alt="" 
                     className="card-face" 
